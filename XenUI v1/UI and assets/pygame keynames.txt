@@ -1,0 +1,134 @@
+backspace
+tab
+clear
+return
+pause
+escape
+space
+exclaim
+quotedbl
+hash
+dollar
+ampersand
+quote
+left parenthesis
+right parenthesis
+asterisk
+plus sign
+comma
+minus sign
+period
+forward slash
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+colon
+semicolon
+less-than sign
+equals sign
+greater-than sign
+question mark
+at
+left bracket
+backslash
+right bracket
+caret
+underscore
+grave
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+delete
+keypad 0
+keypad 1
+keypad 2
+keypad 3
+keypad 4
+keypad 5
+keypad 6
+keypad 7
+keypad 8
+keypad 9
+keypad period
+keypad divide
+keypad multiply
+keypad minus
+keypad plus
+keypad enter
+keypad equals
+up arrow
+down arrow
+right arrow
+left arrow
+insert
+home
+end
+page up
+page down
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+F13
+F14
+F15
+numlock
+capslock
+scrollock
+right shift
+left shift
+right control
+left control
+right alt
+left alt
+right meta
+left meta
+left Windows key
+right Windows key
+mode shift
+help
+print screen
+sysrq
+break
+menu
+power
+Euro
+Android back button
